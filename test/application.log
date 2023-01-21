@@ -1,0 +1,4 @@
+time="2023-01-22T01:12:44+07:00" level=info msg="hello world"
+time="2023-01-22T01:15:08+07:00" level=info msg="hello world"
+time="2023-01-22T01:15:08+07:00" level=warning msg="hello warn"
+time="2023-01-22T01:15:08+07:00" level=error msg="hello error"
